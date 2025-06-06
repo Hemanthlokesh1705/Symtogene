@@ -30,9 +30,6 @@ SymptoGene/
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
-bash
-Copy
-Edit
 
 ## ⚙️ Installation
 
