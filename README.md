@@ -13,11 +13,11 @@ SymptoGene is an AI-powered web application designed to predict **genetic diseas
 
 ## 🧠 Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Flask)
-- **Machine Learning**: Scikit-learn, Pandas
-- **Deployment**: (To be added: Render, Heroku, or local server)
-- *(Optional)*: Google APIs for future chatbot voice/speech features
+- **Frontend**: HTML, CSS, JavaScript.
+- **Backend**: Python (Flask).
+- **Machine Learning**: Scikit-learn, Pandas.
+- **Deployment**: (To be added: Render, Heroku, or local server).
+- *(Optional)*: Google APIs for future chatbot voice/speech features.
 
 ## 📁 Project Structure
 
